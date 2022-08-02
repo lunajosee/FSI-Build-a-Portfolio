@@ -1,0 +1,26 @@
+body {
+    background-color: brown;
+}
+
+h1 {
+    color: red;
+    text-align: justify;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h2 {
+    text-align:justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main-section {
+    border: 5px dotted;
+    border-radius: 10px;
+    background-color: wheat;
+}
+.image {
+    border-style: dashed;
+    border-radius: 10px;
+    text-align: justify;
+}
+.opening {
+    text-align: center;
+}
